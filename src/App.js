@@ -9,7 +9,7 @@ function App() {
   const [animals, setAnimals] = useState([])
 
   useEffect(() => {
-    axios.get('http://localhost:3001/animals')
+    axios.get('https://my-json-server.typicode.com/Paoleski/pantanalDex')
       .then(response => {
         setAnimals(response.data);
       })
