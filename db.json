@@ -1,0 +1,151 @@
+{
+    "animals": [
+        {
+            "id":1,
+            "name":"Onça-Pintada",
+            "scientificName":"Panthera Onca",
+            "imageUrl":"https://www.nationalgeographic.com/content/dam/animals/pictures/mammals/j/jaguar/jaguar.adapt.1190.1.JPG",
+            "type":"Mamifero",
+            "diet":"Carnivoro",
+            "lifeSpan":12,
+            "height":180,
+            "weight":110,
+            "threat":"Near Threatned",
+            "populationTrend":"Decreasing"
+            
+        },
+        {
+            "id":2,
+            "name":"Onça-Parda",
+            "scientificName":"Puma Concolor",
+            "imageUrl":"https://www.nationalgeographic.com/content/dam/animals/pictures/mammals/c/cougar/cougar.adapt.1190.1.JPG",
+            "type":"Mamifero",
+            "diet":"Carnivoro",
+            "lifeSpan":12,
+            "height":160,
+            "weight":132,
+            "threat":"Least Concern",
+            "populationTrend":"Decreasing"
+        },
+        {
+            "id":3,
+            "name":"Jaguatirica",
+            "scientificName":"Leopardus pardalis",
+            "imageUrl":"https://www.nationalgeographic.com/content/dam/animals/pictures/mammals/o/ocelot/ocelot.adapt.1190.1.JPG",
+            "type":"Mamifero",
+            "diet":"Carnivoro",
+            "lifeSpan":12,
+            "height":89,
+            "weight":15,
+            "threat":"Least Concern",
+            "populationTrend":"Decreasing"
+        },
+        {
+            "id":4,
+            "name":"Ariranha",
+            "scientificName":"Pteronura brasiliensis",
+            "imageUrl":"https://www.nationalgeographic.com/content/dam/animals/pictures/mammals/g/giant-otter/giant-otter_02.adapt.1190.1.jpg",
+            "type":"Mamifero",
+            "diet":"Carnivoro",
+            "lifeSpan":12,
+            "height":180,
+            "weight":34,
+            "threat":"Endangered",
+            "populationTrend":"Decreasing"
+        },
+        {
+            "id":5,
+            "name":"Lobo-Guará",
+            "scientificName":"Chrysocyon brachyurus",
+            "imageUrl":"https://cdn.hipwallpaper.com/m/50/78/ijz1aT.jpg",
+            "type":"Mamifero",
+            "diet":"Carnivoro",
+            "lifeSpan":12,
+            "height":120,
+            "weight":22,
+            "threat":"Near threatened",
+            "populationTrend":"Decreasing"
+        },
+        {
+            "id":6,
+            "name":"Capivara",
+            "scientificName":"Hydrochoerus hydrochaeris",
+            "imageUrl":"https://c1.wallpaperflare.com/preview/681/558/356/capybara-nature-animal-puppy.jpg",
+            "type":"Mamifero",
+            "diet":"Herbivoro",
+            "lifeSpan":7,
+            "height":61,
+            "weight":35,
+            "threat":"Least concern",
+            "populationTrend":"Stable"
+        },
+        {
+            "id":7,
+            "name":"Tamanduá-bandeira",
+            "scientificName":"Myrmecophaga tridactyla",
+            "imageUrl":"https://www.nationalgeographic.com/content/dam/animals/pictures/mammals/g/giant-anteater/giant-anteater_01.adapt.1190.1.JPG",
+            "type":"Mamifero",
+            "diet":"Insectivore",
+            "lifeSpan":14,
+            "height":180,
+            "weight":40,
+            "threat":"Vulnerable",
+            "populationTrend":"Decreasing"
+        },
+        {
+            "id":8,
+            "name":"Anta",
+            "scientificName":"Tapirus bairdii",
+            "imageUrl":"https://www.nationalgeographic.com/content/dam/animals/pictures/mammals/b/bairds-tapir/bairds-tapir-nationalgeographic_2749836.adapt.1900.1.jpg",
+            "type":"Mamifero",
+            "diet":"Herbivoro",
+            "lifeSpan":30,
+            "height":200,
+            "weight":170,
+            "threat":"Endangered",
+            "populationTrend":"Unknown"
+        },
+        {
+            "id":9,
+            "name":"Tucano-toco",
+            "scientificName":"Ramphastos toco",
+            "imageUrl":"https://www.nationalgeographic.com/content/dam/animals/pictures/birds/t/toco-toucan/toco-toucan_02.adapt.1190.1.jpg",
+            "type":"Aves",
+            "diet":"Onivoro",
+            "lifeSpan":20,
+            "height":63,
+            "weight":0.5,
+            "threat":"Least Concern",
+            "populationTrend":"Decreasing"
+        },
+        {
+            "id":10,
+            "name":"Ema",
+            "scientificName":"Rhea americana",
+            "imageUrl":"https://vistapointe.net/images/rhea-5.jpg",
+            "type":"Aves",
+            "diet":"Onivoro",
+            "lifeSpan":15,
+            "height":152,
+            "weight":22,
+            "threat":"Near Threatened",
+            "populationTrend":"Decreasing"
+        },
+        {
+            "id":11,
+            "name":"Jibóia",
+            "scientificName":"Boa constrictor",
+            "imageUrl":"https://www.nationalgeographic.com/content/dam/animals/pictures/reptiles/b/boa-constrictor/boa-constrictor.adapt.1190.1.JPG",
+            "type":"Reptil",
+            "diet":"Carnivoro",
+            "lifeSpan":20,
+            "height":396,
+            "weight":27,
+            "threat":"Unknown",
+            "populationTrend":"Unknown"
+        }
+
+
+        
+    ]
+}
