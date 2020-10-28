@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pantanalDex/static/css/main.165e5553.chunk.css",
-    "main.js": "/pantanalDex/static/js/main.93d70626.chunk.js",
-    "main.js.map": "/pantanalDex/static/js/main.93d70626.chunk.js.map",
+    "main.js": "/pantanalDex/static/js/main.78c0df98.chunk.js",
+    "main.js.map": "/pantanalDex/static/js/main.78c0df98.chunk.js.map",
     "runtime-main.js": "/pantanalDex/static/js/runtime-main.5e57af85.js",
     "runtime-main.js.map": "/pantanalDex/static/js/runtime-main.5e57af85.js.map",
     "static/js/2.f8205416.chunk.js": "/pantanalDex/static/js/2.f8205416.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5e57af85.js",
     "static/js/2.f8205416.chunk.js",
     "static/css/main.165e5553.chunk.css",
-    "static/js/main.93d70626.chunk.js"
+    "static/js/main.78c0df98.chunk.js"
   ]
 }
