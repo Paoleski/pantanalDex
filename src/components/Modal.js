@@ -9,16 +9,14 @@ const MODAL_STYLES = {
     bottom:'10%',
     backgroundColor:'#FFF',
     zIndex: 1000,
-    display:'flex',
-    flexDirection:'column',
     overflow:'auto',
 }
 
-const IMG_STYLES = {
-    width:'100%',
-    height:'70%',
-    objectFit:'cover'
-}
+// const IMG_STYLES = {
+//     width:'100%',
+//     height:'70%',
+//     objectFit:'cover'
+// }
 
 const OVERLAY_STYLES = {
     position:'fixed',
@@ -40,7 +38,9 @@ export default function Modal({open, children, onClose}) {
         <>
         <div style={OVERLAY_STYLES} onClick={onClose}/>
         <div style={MODAL_STYLES} onClick={onClose}>
-            <img style={IMG_STYLES} src={children.imageUrl} alt={children.name}></img>
+            <div className="fullimg-container">
+                <img src={children.imageUrl} alt={children.name}></img>
+            </div>
             <div className="info">
                 <div className="name-container">
                     <h1>Nome: {children.name}</h1>

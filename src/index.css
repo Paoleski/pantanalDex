@@ -1,14 +1,14 @@
 body {
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   font-family: sans-serif;
   margin: 0 auto;
 }
@@ -18,7 +18,7 @@ body {
   display: -ms-flexbox;
   display: flex;
   -ms-flex-wrap: wrap;
-      flex-wrap: wrap;
+  flex-wrap: wrap;
   width: 90%;
   margin: 50px auto;
   grid-gap: 20px;
@@ -32,7 +32,7 @@ body {
   border: solid 2px black;
   padding: 5px;
   -webkit-box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
-          box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
   border-radius: 5px;
   -webkit-transition: all .25s ease-in-out;
   transition: all .25s ease-in-out;
@@ -40,7 +40,7 @@ body {
 
 .grid-container div:hover img {
   -webkit-filter: grayscale(0);
-          filter: grayscale(0);
+  filter: grayscale(0);
 }
 
 .grid-container div:hover {
@@ -50,7 +50,7 @@ body {
 .grid-container div img {
   width: 100%;
   -webkit-filter: grayscale(100%);
-          filter: grayscale(100%);
+  filter: grayscale(100%);
   border-radius: 5px;
   -webkit-transition: all .25s ease-in-out;
   transition: all .25s ease-in-out;
@@ -60,7 +60,6 @@ body {
   margin: 5px 0;
   padding: 0;
   text-align: center;
-  font-style: italic;
 }
 
 .nav-wrapper {
@@ -74,8 +73,8 @@ body {
   display: flex;
   justify-items: space-around;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 ul {
@@ -83,7 +82,6 @@ ul {
 }
 
 .info {
-  padding-left: 10px;
   padding-right: 10px;
   font-size: 20px;
   margin: 10px auto;
@@ -93,6 +91,18 @@ ul {
   font-size: 22px;
   font-weight: bold;
   text-align: center;
+}
+
+.info p {
+  padding-left: 10px;
+}
+
+.fullimg-container {
+  width: 100%;
+}
+
+.fullimg-container img {
+  width: 100%;
 }
 
 @media screen and (max-width: 800px) {
