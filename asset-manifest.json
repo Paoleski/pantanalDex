@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/pantanalDex/static/css/main.165e5553.chunk.css",
-    "main.js": "/pantanalDex/static/js/main.78c0df98.chunk.js",
-    "main.js.map": "/pantanalDex/static/js/main.78c0df98.chunk.js.map",
+    "main.css": "/pantanalDex/static/css/main.33176e36.chunk.css",
+    "main.js": "/pantanalDex/static/js/main.1ecabd30.chunk.js",
+    "main.js.map": "/pantanalDex/static/js/main.1ecabd30.chunk.js.map",
     "runtime-main.js": "/pantanalDex/static/js/runtime-main.5e57af85.js",
     "runtime-main.js.map": "/pantanalDex/static/js/runtime-main.5e57af85.js.map",
     "static/js/2.f8205416.chunk.js": "/pantanalDex/static/js/2.f8205416.chunk.js",
     "static/js/2.f8205416.chunk.js.map": "/pantanalDex/static/js/2.f8205416.chunk.js.map",
     "index.html": "/pantanalDex/index.html",
-    "static/css/main.165e5553.chunk.css.map": "/pantanalDex/static/css/main.165e5553.chunk.css.map",
+    "static/css/main.33176e36.chunk.css.map": "/pantanalDex/static/css/main.33176e36.chunk.css.map",
     "static/js/2.f8205416.chunk.js.LICENSE.txt": "/pantanalDex/static/js/2.f8205416.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5e57af85.js",
     "static/js/2.f8205416.chunk.js",
-    "static/css/main.165e5553.chunk.css",
-    "static/js/main.78c0df98.chunk.js"
+    "static/css/main.33176e36.chunk.css",
+    "static/js/main.1ecabd30.chunk.js"
   ]
 }
